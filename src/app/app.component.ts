@@ -14,5 +14,5 @@ import { HeaderComponent } from './shared/header/header.component';
   imports: [RouterOutlet, HeaderComponent]
 })
 export class AppComponent {
-  title = 'angular-shop';
+  title = 'storefy-angular';
 }
